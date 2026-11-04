@@ -1,0 +1,6 @@
+{
+  "name": "Step Counter",
+  "description": "Step counter app synced with Google Health Connect and detailed weekly performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

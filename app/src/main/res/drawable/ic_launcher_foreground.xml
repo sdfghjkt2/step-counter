@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered step icon (walking figure + activity ring) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,18 A36,36 0 1,1 53.9,18 Z"
+        android:strokeWidth="6"
+        android:strokeColor="#34D399"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M58,34c2.2,0 4,-1.8 4,-4s-1.8,-4 -4,-4 -4,1.8 -4,4 1.8,4 4,4zM50.5,43.5c-1.1,-0.3 -2.3,0.1 -3,1.1l-6.5,9.2c-0.6,0.8 -0.4,1.9 0.4,2.5 0.8,0.6 1.9,0.4 2.5,-0.4l5.3,-7.5 3.3,10 -7.2,13.7c-0.6,1.1 -0.2,2.4 0.9,3 1.1,0.6 2.4,0.2 3,-0.9l8.2,-15.5c0.5,-0.9 0.4,-2 -0.2,-2.8l-2.8,-8.5 3.1,1.5 5.8,11.6c0.5,1.1 1.8,1.6 2.9,1.1 1.1,-0.5 1.6,-1.8 1.1,-2.9l-6.5,-13c-0.6,-1.2 -1.8,-1.9 -3.1,-1.8l-7.2,0.6 2.2,-5.8 4.2,2.1c0.7,0.3 1.5,0.2 2.1,-0.3 0.6,-0.5 0.9,-1.3 0.7,-2.1l-1,-4.2c-0.3,-1.2 -1.4,-2 -2.6,-2l-9,0.1z" />
+</vector>
